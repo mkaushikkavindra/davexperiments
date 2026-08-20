@@ -218,6 +218,3 @@ Operations include:
 - Moving average smoothing
 - ARIMA forecasting
 
-├── Experiment_5C_Time_Series.ipynb
-│
-└── README.md
